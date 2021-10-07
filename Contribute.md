@@ -3,7 +3,7 @@
 * After the issue is assigned to you, start working on it. 
 
 ## Pull Request
-* Add upstream as the main repository using `git remote add upstream https://github.com/dsc-iem/WolfMaths` command in terminal.
+* Add upstream as the main repository using `git remote add upstream https://github.com/dsc-iem/WolfMaths.git` command in terminal.
 * While pushing new changes to this repo make sure to **create a new branch** everytime.
 * Push changes to origin i.e. your forked repository.
 * Before making pull request whether your forked repository is updated. For this use `git pull upstream main` command in the terminal.
