@@ -3,6 +3,7 @@
 ## Setup
 * Fork the repository.
 * Clone the repository.
+
 ```git clone https://github.com/<your-github-username>/WolfMaths.git```
 
 ## Claiming Issues
@@ -12,16 +13,22 @@
 
 ## Pull Request
 * After cloning the repository on your local machine you can switch to the cloned repository.
+
 ```cd WolfMaths```
 * Create a new branch.
+
 ```  git checkout -b <your-branch-name>```
 * Stage the changes you made.
+
 ```git add .```
 * Commit the changes.
+
 ```git commit -m "Add <your-github-username>"```
 * Check the status 
+
 ```git status```
 * Push your repository to Github.
+
 ```git push origin <your-branch-name>```
 * Navigate to your forked repo, and you'll find a new section at the top of the files section with a contribute button!
 * Click the contribute button to bring up a drop-down menu; select the pull request option from the menu.
